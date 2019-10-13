@@ -1,2 +1,2 @@
 # Picolo
-first project
+first project, this is my fist project.
